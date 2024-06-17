@@ -78,5 +78,4 @@
   </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loochuynhh&show_icons=true&locale=en&layout=compact" alt="loochuynhh" style="height: 25vh; width: auto;"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=loochuynhh&show_icons=true&locale=en" alt="loochuynhh" style="height: 25vh; width: auto;"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loochuynhh&show_icons=true&locale=en&layout=compact" alt="loochuynhh" style="height: auto; width: 100%;"/>
