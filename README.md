@@ -2,7 +2,7 @@
 <h3 align="left">A full stack developer</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="30%" style="border-radius: 10px;"/>
 
-🌱 I’m currently learning React, NodeJs, Docker
+🌱 I’m currently learning React, NodeJs, Docker, Ruby
 
 📫 If you want to reach me: **lochuynhhsb@gmail.com**
 
